@@ -5,9 +5,9 @@ Collection of R toy datasets to use for learning purposes.
 
 A description of each of the files that create the data are provided below (in no particular order). 
 
-### rocks.sql
+### household_finances.r
 
-This code creates a table named "RockSamples" with several columns:
+This code creates a table named "us_households" with several columns:
 
     household_id: Numeric vector with unique identifiers for each household.
     income: Numeric vector with annual household income
